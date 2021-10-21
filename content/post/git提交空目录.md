@@ -7,8 +7,6 @@ categories: ["git"]
 author: "tureo"
 ---
 
-[toc]
-
 # 需求
 需要提交一个项目目录结构到远程git仓库上
 
