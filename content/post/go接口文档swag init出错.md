@@ -1,7 +1,7 @@
 ---
-title: "Go和swag自定义类型参数"
+title: "go接口文档swag init出错"
 date: 2021-10-21T15:46:45+08:00
-draft: true
+draft: false
 tags: ["go", "swagger","swaggo","goswagger","doc"]
 categories: ["go","swagger"]
 author: "tureo"
