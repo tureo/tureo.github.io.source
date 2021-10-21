@@ -1,6 +1,13 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+lastmod: {{ .Date }}
+draft: false
+keywords: []
+description: ""
+tags: []
+categories: []
+author: "tureo"
 ---
 
+<!--more-->
