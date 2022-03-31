@@ -60,3 +60,9 @@ func main() {
 	MapSliceSort()
 }
 ```
+
+# 结果对比
+```Text
+unordered: [map[id:x001 nickname:user1 number:2] map[id:x002 nickname:user2 number:1] map[id:x003 nickname:user3 number:3]]
+ordered: [map[id:x002 nickname:user2 number:1] map[id:x001 nickname:user1 number:2] map[id:x003 nickname:user3 number:3]]
+```
